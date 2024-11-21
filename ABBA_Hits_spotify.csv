@@ -1,0 +1,301 @@
+index,Unnamed: 0,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,artist
+0,0,Live At Wembley Arena,1,1mKnzPuoEhyGP1dgMvOzfT,Gammal fäbodpsalm - Live,spotify:track:1mKnzPuoEhyGP1dgMvOzfT,0.862,0.205,0.176,0.908,0.407,-24.421,0.0457,96.066,0.128,50,Abba
+1,1,Live At Wembley Arena,2,6YPvn6me5k5OiXVPtgmeak,Voulez-Vous - Live,spotify:track:6YPvn6me5k5OiXVPtgmeak,0.00459,0.5,0.707,0.00283,0.501,-11.825,0.0413,137.314,0.53,41,Abba
+2,2,Live At Wembley Arena,3,3GcRxtoMaxXe4zjvRLzZlr,If It Wasn't For The Nights - Live,spotify:track:3GcRxtoMaxXe4zjvRLzZlr,0.00194,0.496,0.778,4.99e-05,0.978,-13.305,0.106,104.645,0.372,39,Abba
+3,3,Live At Wembley Arena,4,4juV8pzyyD53BeWJzCanQb,As Good As New - Live,spotify:track:4juV8pzyyD53BeWJzCanQb,0.0305,0.408,0.727,0.0,0.777,-11.898,0.0556,148.697,0.662,37,Abba
+4,4,Live At Wembley Arena,5,5wTlYf7V2ser4UslPKxIKU,"Knowing Me, Knowing You - Live",spotify:track:5wTlYf7V2ser4UslPKxIKU,0.0103,0.389,0.775,3.26e-05,0.743,-10.317,0.0364,99.042,0.49,39,Abba
+5,5,Live At Wembley Arena,6,43iNYzBbyAQF29CjsalAik,Rock Me - Live,spotify:track:43iNYzBbyAQF29CjsalAik,0.0568,0.462,0.721,0.0,0.712,-9.928,0.0577,132.91,0.548,36,Abba
+6,6,Live At Wembley Arena,7,5VFWFYzo4stfWnux8rWdPO,Chiquitita - Live,spotify:track:5VFWFYzo4stfWnux8rWdPO,0.0677,0.367,0.469,3.22e-05,0.837,-14.058,0.0348,87.911,0.262,40,Abba
+7,7,Live At Wembley Arena,8,0M4KWb0efz5XjIfmPix6sQ,"Money, Money, Money - Live",spotify:track:0M4KWb0efz5XjIfmPix6sQ,0.275,0.457,0.689,4.3e-05,0.87,-13.462,0.148,125.763,0.288,38,Abba
+8,8,Live At Wembley Arena,9,7K5sFSOkP1Yz7xJipXDaBV,I Have A Dream - Live,spotify:track:7K5sFSOkP1Yz7xJipXDaBV,0.111,0.429,0.536,2.54e-06,0.863,-16.226,0.0695,108.831,0.365,40,Abba
+9,9,Live At Wembley Arena,10,3hEy5GbQv7yC1X6yhoPz2y,Gimme! Gimme! Gimme! (A Man After Midnight) - Live,spotify:track:3hEy5GbQv7yC1X6yhoPz2y,0.00979,0.364,0.776,0.00127,0.837,-9.849,0.0557,127.926,0.459,37,Abba
+10,10,Live At Wembley Arena,11,3t07NlsvTzarYlPyogvZ8O,SOS - Live,spotify:track:3t07NlsvTzarYlPyogvZ8O,0.0398,0.474,0.65,5.61e-06,0.923,-10.297,0.0447,121.875,0.15,38,Abba
+11,11,Live At Wembley Arena,12,1N2NXpj3uukS8QsHURfnQv,Fernando - Live,spotify:track:1N2NXpj3uukS8QsHURfnQv,0.194,0.441,0.474,0.0,0.949,-12.095,0.0367,111.309,0.228,38,Abba
+12,12,Live At Wembley Arena,1,6o2yOoSIpSJT919HlUETqW,The Name Of The Game - Live,spotify:track:6o2yOoSIpSJT919HlUETqW,0.0138,0.447,0.566,0.0,0.93,-11.144,0.0252,80.637,0.657,34,Abba
+13,13,Live At Wembley Arena,2,6T1kgceAMBVmjyKzDXNlh2,Eagle - Live,spotify:track:6T1kgceAMBVmjyKzDXNlh2,0.000454,0.38,0.702,0.000115,0.809,-10.578,0.0339,78.89,0.357,33,Abba
+14,14,Live At Wembley Arena,3,1PnrWsfhSFLcNhaKD7bANM,Thank You For The Music - Live,spotify:track:1PnrWsfhSFLcNhaKD7bANM,0.0893999999999999,0.487,0.518,0.0,0.969,-13.165,0.0651,104.41,0.398,36,Abba
+15,15,Live At Wembley Arena,4,1FwzC6Wsw5a6YJQsSxGL8n,Why Did It Have To Be Me? - Live,spotify:track:1FwzC6Wsw5a6YJQsSxGL8n,0.00373,0.477,0.819,0.000928,0.734,-10.525,0.0593,124.761,0.567,33,Abba
+16,16,Live At Wembley Arena,5,2orRq69FVVrlVedoi4882F,Intermezzo No.1 - Live,spotify:track:2orRq69FVVrlVedoi4882F,0.00847,0.357,0.856,0.716,0.675,-10.381,0.124,89.527,0.346,31,Abba
+17,17,Live At Wembley Arena,6,4kZlykyOQ1w31YA3RirCvQ,I'm Still Alive - Live,spotify:track:4kZlykyOQ1w31YA3RirCvQ,0.518,0.381,0.514,1.84e-06,0.755,-12.066,0.0839,124.356,0.172,31,Abba
+18,18,Live At Wembley Arena,7,07bNRNkdQeUGMidjbZyCyB,Summer Night City - Live,spotify:track:07bNRNkdQeUGMidjbZyCyB,0.00755,0.233,0.742,0.0,0.691,-10.61,0.16,148.721,0.107,33,Abba
+19,19,Live At Wembley Arena,8,7mHjo6TCCMmYk5zQ9jlMBX,Take A Chance On Me - Live,spotify:track:7mHjo6TCCMmYk5zQ9jlMBX,0.0123,0.459,0.848,0.0,0.987,-9.389,0.0599,111.374,0.388,36,Abba
+20,20,Live At Wembley Arena,9,2k2rZwlotD4XzDtgjEF9IN,Does Your Mother Know - Live,spotify:track:2k2rZwlotD4XzDtgjEF9IN,0.00015,0.409,0.877,0.00248,0.278,-8.432,0.0423,147.594,0.734,35,Abba
+21,21,Live At Wembley Arena,10,7tQArNO9133ADo6e6Barkx,Hole In Your Soul - Live,spotify:track:7tQArNO9133ADo6e6Barkx,0.0012,0.212,0.912,0.00145,0.75,-9.466,0.38,170.005,0.145,31,Abba
+22,22,Live At Wembley Arena,11,0snim2CMV62M4JocWIpjGH,The Way Old Friends Do - Live,spotify:track:0snim2CMV62M4JocWIpjGH,0.591,0.142,0.225,0.0,0.287,-14.375,0.0383,176.614,0.256,49,Abba
+23,23,Live At Wembley Arena,12,7uCt8IA0PnfsEoTMk7By1Q,Dancing Queen - Live,spotify:track:7uCt8IA0PnfsEoTMk7By1Q,0.0546,0.419,0.939,0.000643,0.449,-9.529,0.339,107.586,0.265,37,Abba
+24,24,Live At Wembley Arena,13,3eNYZ1f1sLkylk0kc60Vir,Waterloo - Live,spotify:track:3eNYZ1f1sLkylk0kc60Vir,0.000601,0.396,0.811,0.000599,0.677,-10.441,0.0419,159.426,0.343,37,Abba
+25,25,The Visitors,1,5v35PWmB4SwHhH0JJFXrmR,The Visitors,spotify:track:5v35PWmB4SwHhH0JJFXrmR,0.075,0.61,0.619,0.000427,0.093,-9.838,0.0302,131.194,0.719,2,Abba
+26,26,The Visitors,2,5ELL2yV4fueS8162HxqMDm,Head Over Heels,spotify:track:5ELL2yV4fueS8162HxqMDm,0.565,0.827,0.751,1.03e-05,0.141,-6.874,0.0348,121.429,0.762,2,Abba
+27,27,The Visitors,3,4GrtyePdrVuivkxFc0Rea2,When All Is Said And Done,spotify:track:4GrtyePdrVuivkxFc0Rea2,0.462,0.72,0.686,5.95e-05,0.302,-7.521,0.0357,126.081,0.727,1,Abba
+28,28,The Visitors,4,7pKnn2o62bIGGVtQvPrzBz,Soldiers,spotify:track:7pKnn2o62bIGGVtQvPrzBz,0.188,0.551,0.642,6.74e-05,0.0361,-7.802,0.0264,88.702,0.896,1,Abba
+29,29,The Visitors,5,0dQuwr2omfTh3yYfTtCGfK,I Let The Music Speak,spotify:track:0dQuwr2omfTh3yYfTtCGfK,0.816,0.326,0.263,1.45e-05,0.0641,-9.693,0.0314,77.379,0.163,1,Abba
+30,30,The Visitors,6,7LWjXTffobHr4LRmUf9TSS,One Of Us,spotify:track:7LWjXTffobHr4LRmUf9TSS,0.47,0.646,0.543,0.000191,0.0788,-8.49,0.0365,82.189,0.886,2,Abba
+31,31,The Visitors,7,09tAGTZOqYr7M4bbkDtuKo,Two For The Price Of One,spotify:track:09tAGTZOqYr7M4bbkDtuKo,0.321,0.696,0.49,0.014,0.338,-9.846,0.0306,112.33,0.75,1,Abba
+32,32,The Visitors,8,698K08pmYfEXkDkN8vjGaO,Slipping Through My Fingers,spotify:track:698K08pmYfEXkDkN8vjGaO,0.781,0.498,0.428,1.31e-05,0.217,-9.902,0.032,137.397,0.311,2,Abba
+33,33,The Visitors,9,6RsyKvX5j0tLevy0ge7Lt5,Like An Angel Passing Through My Room,spotify:track:6RsyKvX5j0tLevy0ge7Lt5,0.679,0.547,0.139,1.71e-05,0.139,-18.411,0.0355,107.161,0.275,1,Abba
+34,34,Super Trouper,1,3mSZkRKRVmu4salEkqW69R,Super Trouper,spotify:track:3mSZkRKRVmu4salEkqW69R,0.409,0.767,0.622,2.84e-06,0.171,-8.195,0.0287,118.344,0.956,6,Abba
+35,35,Super Trouper,2,3XATRf8HVpoSBvGcmqMek9,The Winner Takes It All,spotify:track:3XATRf8HVpoSBvGcmqMek9,0.588,0.453,0.791,0.00082,0.0897,-6.724,0.0376,126.189,0.523,4,Abba
+36,36,Super Trouper,3,3pjEpjEkEdrjvYiiZOI6S5,On And On And On,spotify:track:3pjEpjEkEdrjvYiiZOI6S5,0.26,0.706,0.909,0.0428,0.152,-5.995,0.0275,127.988,0.934,4,Abba
+37,37,Super Trouper,4,1YnBV85uTTvZLRXED7oM2Y,"Andante, Andante",spotify:track:1YnBV85uTTvZLRXED7oM2Y,0.684,0.289,0.352,0.000317,0.0685999999999999,-10.745,0.028,203.032,0.439,4,Abba
+38,38,Super Trouper,5,0yQsyVzdHXMwTYjUKHr77g,Me And I,spotify:track:0yQsyVzdHXMwTYjUKHr77g,0.154,0.658,0.784,0.103,0.25,-8.151,0.0275,113.432,0.611,3,Abba
+39,39,Super Trouper,6,7MUOiFTqEUBUAiW495JTUT,Happy New Year,spotify:track:7MUOiFTqEUBUAiW495JTUT,0.815,0.506,0.382,0.0,0.159,-9.251,0.0282,132.611,0.278,2,Abba
+40,40,Super Trouper,7,67yRtYaxtUIGu2kDdbsASx,Our Last Summer,spotify:track:67yRtYaxtUIGu2kDdbsASx,0.684,0.509,0.538,9.87e-05,0.475,-7.874,0.0242,98.298,0.428,5,Abba
+41,41,Super Trouper,8,2nRBX3fdtR2V5ObohB2cyM,The Piper,spotify:track:2nRBX3fdtR2V5ObohB2cyM,0.262,0.573,0.547,9.2e-05,0.0887,-9.09,0.0254,88.492,0.441,3,Abba
+42,42,Super Trouper,9,540comwSRmoot1fnlAHNXH,Lay All Your Love On Me,spotify:track:540comwSRmoot1fnlAHNXH,0.111,0.678,0.716,0.00751,0.256,-7.864,0.0258,133.46,0.736,6,Abba
+43,43,Super Trouper,10,3jIQTEXQeuQZIxFmgZQNuF,The Way Old Friends Do,spotify:track:3jIQTEXQeuQZIxFmgZQNuF,0.737,0.213,0.509,1.33e-05,0.331,-8.608,0.0318,91.692,0.328,3,Abba
+44,44,Abba,1,68oCBPzCLj5vHp7ukEJo0U,Mamma Mia,spotify:track:68oCBPzCLj5vHp7ukEJo0U,0.278,0.747,0.753,0.000352,0.447,-6.985,0.0324,137.546,0.817,5,Abba
+45,45,Abba,2,1lJTOA5dy1xMjbYJMqgUJR,"Hey, Hey Helen",spotify:track:1lJTOA5dy1xMjbYJMqgUJR,0.00392,0.649,0.672,0.012,0.0565,-6.68,0.0417,117.879,0.752,3,Abba
+46,46,Abba,3,1Ba3zDOBqK7CCutxuAFGCA,Tropical Loveland,spotify:track:1Ba3zDOBqK7CCutxuAFGCA,0.546,0.666,0.476,2.37e-05,0.0466,-10.559,0.0572,82.073,0.836,2,Abba
+47,47,Abba,4,3k3uycF2Bgj1aLOtkEVMUf,SOS,spotify:track:3k3uycF2Bgj1aLOtkEVMUf,0.252,0.418,0.713,0.0023,0.343,-5.528,0.0281,124.659,0.552,6,Abba
+48,48,Abba,5,134QsXCbK3B7NruDAVZK97,Man In The Middle,spotify:track:134QsXCbK3B7NruDAVZK97,0.17,0.656,0.684,1.72e-06,0.0518,-10.307,0.0571,166.604,0.964,2,Abba
+49,49,Abba,6,6di98QRVO1Mhva2SmaLXpu,Bang-A-Boomerang,spotify:track:6di98QRVO1Mhva2SmaLXpu,0.0309,0.505,0.76,0.000611,0.344,-3.426,0.0298,131.88,0.886,2,Abba
+50,50,Abba,7,5DlRVpU2iWhg7090un6pqc,"I Do, I Do, I Do, I Do, I Do",spotify:track:5DlRVpU2iWhg7090un6pqc,0.688,0.47,0.808,0.0182,0.334,-4.261,0.0332,110.638,0.696,3,Abba
+51,51,Abba,8,2PVOabbUcL8uDt1hlsafU6,Rock Me,spotify:track:2PVOabbUcL8uDt1hlsafU6,0.556,0.689,0.854,0.0,0.279,-4.716,0.0798,132.708,0.788,2,Abba
+52,52,Abba,9,7B8mXv99rDUAnL7Lmk9QxO,Intermezzo No.1,spotify:track:7B8mXv99rDUAnL7Lmk9QxO,0.0726,0.409,0.683,0.935,0.256,-6.22,0.0282,155.692,0.478,2,Abba
+53,53,Abba,10,2x13oEM19I4mr6OxW2mpnZ,I've Been Waiting For You,spotify:track:2x13oEM19I4mr6OxW2mpnZ,0.651,0.394,0.578,0.00169,0.075,-5.881,0.0289,154.008,0.439,3,Abba
+54,54,Abba,11,1ngVgMX8qvk11oy90LrZDY,So Long,spotify:track:1ngVgMX8qvk11oy90LrZDY,0.0366,0.301,0.913,0.685,0.331,-4.718,0.0554,159.663,0.744,1,Abba
+55,55,Thank You For The Music,1,6LFT0NCxd610hw04m8I342,People Need Love,spotify:track:6LFT0NCxd610hw04m8I342,0.221,0.58,0.604,5.86e-06,0.0833,-8.803,0.0403,78.306,0.883,16,Abba
+56,56,Thank You For The Music,2,2jkI6mPMMSJAH6cNnOGJKt,"Another Town, Another Train",spotify:track:2jkI6mPMMSJAH6cNnOGJKt,0.0602,0.63,0.541,0.0,0.203,-11.613,0.0304,122.852,0.829,15,Abba
+57,57,Thank You For The Music,3,28WwuySopGU9MKzHEHpCzU,He Is Your Brother,spotify:track:28WwuySopGU9MKzHEHpCzU,0.0558,0.425,0.807,3.56e-05,0.141,-9.068,0.0315,178.573,0.965,15,Abba
+58,58,Thank You For The Music,4,3Sb4XMPqDpAmVaeYG1TtB4,Love Isn't Easy (But It Sure Is Hard Enough),spotify:track:3Sb4XMPqDpAmVaeYG1TtB4,0.0442,0.737,0.625,0.0,0.1,-10.434,0.0337,126.808,0.963,15,Abba
+59,59,Thank You For The Music,5,5y6iN2aU63ztVSl0Uvvb81,Ring Ring - English Version,spotify:track:5y6iN2aU63ztVSl0Uvvb81,0.00864,0.56,0.909,0.036,0.119,-8.827,0.0336,136.835,0.972,16,Abba
+60,60,Thank You For The Music,6,2056iredWIyc1cW8D4rbvN,Waterloo,spotify:track:2056iredWIyc1cW8D4rbvN,0.36,0.445,0.885,5.07e-05,0.241,-7.024,0.0399,146.952,0.834,18,Abba
+61,61,Thank You For The Music,7,7lJJJyQZKaBC6VQcOnZ5SJ,Hasta Manana,spotify:track:7lJJJyQZKaBC6VQcOnZ5SJ,0.363,0.452,0.575,0.0,0.08,-7.225,0.0265,168.741,0.622,16,Abba
+62,62,Thank You For The Music,8,2EDeX0TX5RlXWVQ7OtpxkD,"Honey, Honey",spotify:track:2EDeX0TX5RlXWVQ7OtpxkD,0.0372,0.492,0.801,0.0,0.337,-8.624,0.0513,140.021,0.764,18,Abba
+63,63,Thank You For The Music,9,0kcRGwLsH69CL6A0UCGyMo,Dance (While The Music Still Goes On),spotify:track:0kcRGwLsH69CL6A0UCGyMo,0.197,0.584,0.847,0.0,0.117,-8.061,0.0504,131.012,0.692,15,Abba
+64,64,Thank You For The Music,10,4bcX7jdqI3ZlW8v7LwHOF5,So Long,spotify:track:4bcX7jdqI3ZlW8v7LwHOF5,0.00102,0.339,0.768,0.831,0.271,-8.718,0.0349,159.046,0.813,15,Abba
+65,65,Thank You For The Music,11,5WlwfdLTqrY6xQQvdWF3fJ,I've Been Waiting For You,spotify:track:5WlwfdLTqrY6xQQvdWF3fJ,0.612,0.393,0.49,0.00141,0.175,-8.461,0.0285,153.333,0.459,15,Abba
+66,66,Thank You For The Music,12,0SnrddasjtESImZQWIzoPB,"I Do, I Do, I Do, I Do, I Do",spotify:track:0SnrddasjtESImZQWIzoPB,0.437,0.471,0.767,0.0389,0.341,-6.55,0.0318,110.264,0.777,16,Abba
+67,67,Thank You For The Music,13,2cPHGDrV3WeDrqDSmNikwB,SOS,spotify:track:2cPHGDrV3WeDrqDSmNikwB,0.0634,0.42,0.636,0.027,0.29,-7.788,0.0285,124.526,0.588,19,Abba
+68,68,Thank You For The Music,14,1gicTziGenRQeCnR063Lsn,Mamma Mia,spotify:track:1gicTziGenRQeCnR063Lsn,0.155,0.751,0.7,0.0402,0.22,-9.253,0.032,137.092,0.83,17,Abba
+69,69,Thank You For The Music,15,6uaJ8vslALUUAIukiVMx6O,Fernando,spotify:track:6uaJ8vslALUUAIukiVMx6O,0.422,0.356,0.526,0.0,0.0615,-9.623,0.0296,110.512,0.452,18,Abba
+70,70,Thank You For The Music,16,4vSuothg7NLVAeKNY3oSw4,Dancing Queen,spotify:track:4vSuothg7NLVAeKNY3oSw4,0.323,0.543,0.886,0.00379,0.253,-7.084,0.048,100.427,0.779,16,Abba
+71,71,Thank You For The Music,17,4nLl8tsoNe506NKjDdHBEH,That's Me,spotify:track:4nLl8tsoNe506NKjDdHBEH,0.129,0.56,0.817,0.0023,0.201,-8.816,0.0292,129.024,0.843,14,Abba
+72,72,Thank You For The Music,18,2PxutpE8iGA3sdd8gfE0j1,When I Kissed The Teacher,spotify:track:2PxutpE8iGA3sdd8gfE0j1,0.373,0.538,0.874,0.000159,0.0569,-8.654,0.0424,153.157,0.714,16,Abba
+73,73,Thank You For The Music,19,3oOgLFXPEXbVQLRoBojoH7,"Money, Money, Money",spotify:track:3oOgLFXPEXbVQLRoBojoH7,0.342,0.789,0.626,0.00162,0.0689,-9.38,0.0351,120.333,0.688,17,Abba
+74,74,Thank You For The Music,20,465Bm1jG1DTRXgYw7ukyim,Crazy World,spotify:track:465Bm1jG1DTRXgYw7ukyim,0.093,0.494,0.554,4.39e-05,0.243,-12.176,0.0366,135.015,0.578,14,Abba
+75,75,Thank You For The Music,21,2VLbTl4PiSI8Wtid7r5WDt,"My Love, My Life",spotify:track:2VLbTl4PiSI8Wtid7r5WDt,0.649,0.21,0.406,1.73e-05,0.129,-8.592,0.0274,147.895,0.279,14,Abba
+76,76,Thank You For The Music,1,28mb6qvoYoG50L5EQiChZN,"Knowing Me, Knowing You",spotify:track:28mb6qvoYoG50L5EQiChZN,0.0138,0.564,0.643,0.000117,0.314,-9.903,0.0297,106.788,0.925,16,Abba
+77,77,Thank You For The Music,2,1FKImpAHq9U26gxGUaWzf7,Happy Hawaii,spotify:track:1FKImpAHq9U26gxGUaWzf7,0.272,0.571,0.713,0.000839,0.393,-10.153,0.0378,118.377,0.347,14,Abba
+78,78,Thank You For The Music,3,7LgTqtgchzaY3Gow0QyTXc,The Name Of The Game,spotify:track:7LgTqtgchzaY3Gow0QyTXc,0.253,0.649,0.477,0.000419,0.0384,-12.275,0.0277,76.882,0.747,15,Abba
+79,79,Thank You For The Music,4,18TsafraR4k4urrRW5Bpwx,"I Wonder (Departure) - Live From Sydney Showground, Australia / 1977",spotify:track:18TsafraR4k4urrRW5Bpwx,0.511,0.363,0.301,0.0,0.166,-11.351,0.0261,67.95,0.259,13,Abba
+80,80,Thank You For The Music,5,0ePTAwz0qJ2RbiyRntlaOy,Eagle,spotify:track:0ePTAwz0qJ2RbiyRntlaOy,0.0851,0.515,0.705,0.000409,0.101,-9.815,0.0253,84.898,0.626,13,Abba
+81,81,Thank You For The Music,6,7bbZsVwZqWhZfo4SIlvpkc,Take A Chance On Me,spotify:track:7bbZsVwZqWhZfo4SIlvpkc,0.117,0.69,0.671,6.37e-05,0.154,-10.399,0.0261,106.784,0.929,16,Abba
+82,82,Thank You For The Music,7,0ppgjQrUtZJHB2RSWDmH6y,Thank You For The Music,spotify:track:0ppgjQrUtZJHB2RSWDmH6y,0.621,0.302,0.367,0.0,0.145,-10.915,0.0402,200.66,0.425,16,Abba
+83,83,Thank You For The Music,8,7qLfHW2TUqVSEmWs44iDCE,Summer Night City,spotify:track:7qLfHW2TUqVSEmWs44iDCE,0.0397,0.358,0.772,1.05e-06,0.0922999999999999,-8.483,0.0403,130.631,0.686,13,Abba
+84,84,Thank You For The Music,9,1Hk2ZSUZfbFL0zUu3kqKf3,Chiquitita,spotify:track:1Hk2ZSUZfbFL0zUu3kqKf3,0.462,0.54,0.462,3.56e-06,0.26,-11.599,0.0346,83.932,0.364,15,Abba
+85,85,Thank You For The Music,10,6lEZVOhCvUl5HnZRCvLiRJ,Lovelight,spotify:track:6lEZVOhCvUl5HnZRCvLiRJ,0.0389,0.563,0.666,0.000152,0.408,-9.391,0.0305,125.216,0.687,12,Abba
+86,86,Thank You For The Music,11,0vECqNYnttydmJRQFlJhSc,Does Your Mother Know,spotify:track:0vECqNYnttydmJRQFlJhSc,0.0609,0.724,0.778,3.19e-05,0.0595,-8.203,0.0353,135.18,0.98,15,Abba
+87,87,Thank You For The Music,12,4oG4KKcyD6E5S6pxpN32IK,Voulez-Vous,spotify:track:4oG4KKcyD6E5S6pxpN32IK,0.124,0.717,0.733,0.00395,0.132,-8.988,0.0347,126.258,0.89,14,Abba
+88,88,Thank You For The Music,13,4iVhtsLnrYeFJXzG3pgn58,Angeleyes,spotify:track:4iVhtsLnrYeFJXzG3pgn58,0.218,0.725,0.835,0.000517,0.0554,-8.93,0.0304,132.791,0.966,14,Abba
+89,89,Thank You For The Music,14,3XMxXNc33aWxW0WD4ZlNrz,Gimme! Gimme! Gimme! (A Man After Midnight),spotify:track:3XMxXNc33aWxW0WD4ZlNrz,0.00933,0.76,0.399,0.0515,0.144,-12.562,0.0458,119.214,0.483,14,Abba
+90,90,Thank You For The Music,15,2YVQTT3QDRJVg0N4ShQm4m,I Have A Dream,spotify:track:2YVQTT3QDRJVg0N4ShQm4m,0.508,0.558,0.418,0.0,0.152,-10.918,0.0242,103.931,0.494,14,Abba
+91,91,Thank You For The Music,1,2LCOlwwe5SErpR1yzLglk6,The Winner Takes It All,spotify:track:2LCOlwwe5SErpR1yzLglk6,0.463,0.471,0.724,0.00987,0.0872,-9.247,0.0372,126.622,0.507,14,Abba
+92,92,Thank You For The Music,2,61ghe40LWVnaXsoMMvxxw9,Elaine,spotify:track:61ghe40LWVnaXsoMMvxxw9,0.0976,0.604,0.803,0.0312,0.0879999999999999,-10.067,0.0381,152.84,0.935,11,Abba
+93,93,Thank You For The Music,3,641T462cGEX1AfklJQk5iz,Super Trouper,spotify:track:641T462cGEX1AfklJQk5iz,0.167,0.79,0.535,2.32e-05,0.0895,-11.383,0.029,117.867,0.947,13,Abba
+94,94,Thank You For The Music,4,3hx3G8JxGITurnoamXYFp3,Lay All Your Love On Me,spotify:track:3hx3G8JxGITurnoamXYFp3,0.0224,0.669,0.623,0.263,0.163,-10.019,0.027,132.992,0.732,15,Abba
+95,95,Thank You For The Music,5,0VarTvocdbDM8KbiYnPZcB,On And On And On,spotify:track:0VarTvocdbDM8KbiYnPZcB,0.0745,0.703,0.798,0.422,0.107,-9.317,0.028,127.789,0.957,12,Abba
+96,96,Thank You For The Music,6,6SL5XqCtsGymLFybPhRSsQ,Our Last Summer,spotify:track:6SL5XqCtsGymLFybPhRSsQ,0.557,0.506,0.494,3.05e-05,0.0835,-9.523,0.0241,98.017,0.469,13,Abba
+97,97,Thank You For The Music,7,0v6iwMYrNfiJAgYGldBWnm,"The Way Old Friends Do - Live At Wembley Arena, London, England / 1979",spotify:track:0v6iwMYrNfiJAgYGldBWnm,0.175,0.163,0.418,2.14e-05,0.244,-10.068,0.0302,81.702,0.24,11,Abba
+98,98,Thank You For The Music,8,1X4dEd3EatQnophBrQAFv5,The Visitors,spotify:track:1X4dEd3EatQnophBrQAFv5,0.0752,0.597,0.497,0.000628,0.175,-12.512,0.033,131.174,0.706,11,Abba
+99,99,Thank You For The Music,9,5Cxg9Flpy9H8uJVvmXDox8,One Of Us,spotify:track:5Cxg9Flpy9H8uJVvmXDox8,0.55,0.648,0.553,0.00024,0.0648,-9.935,0.0407,82.306,0.848,13,Abba
+100,100,Thank You For The Music,10,36SLS6Ie29EyhA3W2J7D9p,Should I Laugh Or Cry,spotify:track:36SLS6Ie29EyhA3W2J7D9p,0.133,0.768,0.508,0.00348,0.0609,-12.137,0.0295,105.687,0.622,11,Abba
+101,101,Thank You For The Music,11,7iuc4n9YuVqTOaZUlvZW8O,Head Over Heels,spotify:track:7iuc4n9YuVqTOaZUlvZW8O,0.411,0.835,0.655,1.87e-05,0.128,-10.092,0.037,121.511,0.779,11,Abba
+102,102,Thank You For The Music,12,03wR5ap5ATzEHMJm66J6oW,When All Is Said And Done,spotify:track:03wR5ap5ATzEHMJm66J6oW,0.322,0.713,0.564,2.78e-05,0.259,-10.471,0.0323,126.14,0.745,11,Abba
+103,103,Thank You For The Music,13,3vqFvksIwvoUQXh7cRyDxB,Like An Angel Passing Through My Room,spotify:track:3vqFvksIwvoUQXh7cRyDxB,0.71,0.451,0.146,1.79e-05,0.121,-18.48,0.0356,107.179,0.28,10,Abba
+104,104,Thank You For The Music,14,4jIyKxtIw28JJWNbvZwrWS,The Day Before You Came,spotify:track:4jIyKxtIw28JJWNbvZwrWS,0.0312,0.812,0.513,0.0023,0.0471,-9.778,0.0308,107.673,0.787,11,Abba
+105,105,Abba Live,1,0ypPpXDiRMQRDcQqTfIqAX,Dancing Queen - Live,spotify:track:0ypPpXDiRMQRDcQqTfIqAX,0.161,0.465,0.937,0.000167,0.825,-5.85,0.0788,108.524,0.604,22,Abba
+106,106,Abba Live,2,3EogcmgxKEkE9EyRL5zaTh,Take A Chance On Me,spotify:track:3EogcmgxKEkE9EyRL5zaTh,0.414,0.383,0.923,0.0,0.967,-7.077,0.0697,112.195,0.401,25,Abba
+107,107,Abba Live,3,6KH7WFGZ36QgmhFvf0M5TV,I Have A Dream,spotify:track:6KH7WFGZ36QgmhFvf0M5TV,0.241,0.426,0.471,0.0,0.615,-10.948,0.0345,109.243,0.378,21,Abba
+108,108,Abba Live,4,0eTqauier0C0bigAwpmUWT,Does Your Mother Know,spotify:track:0eTqauier0C0bigAwpmUWT,0.0441,0.449,0.982,0.000256,0.987,-6.504,0.0757,144.99,0.607,20,Abba
+109,109,Abba Live,5,0tlb5hUAAeCEpgcFVlhvJc,Chiquitita - Live,spotify:track:0tlb5hUAAeCEpgcFVlhvJc,0.479,0.21,0.721,1.29e-06,0.966,-8.089,0.107,173.185,0.254,23,Abba
+110,110,Abba Live,6,4kp9S9i0pkqjfnIuT07pHF,Thank You For The Music,spotify:track:4kp9S9i0pkqjfnIuT07pHF,0.503,0.482,0.705,0.0,0.99,-7.749,0.0706,105.936,0.408,19,Abba
+111,111,Abba Live,7,3XqDNzTasOXFzz7bafgLFJ,Two For The Price Of One,spotify:track:3XqDNzTasOXFzz7bafgLFJ,0.342,0.584,0.848,0.000147,0.935,-7.918,0.0549,119.088,0.384,17,Abba
+112,112,Abba Live,8,7DGgQ7iOnLIe0uwdzZMk9Z,Fernando,spotify:track:7DGgQ7iOnLIe0uwdzZMk9Z,0.559,0.268,0.743,0.00045,0.973,-7.596,0.0882,92.82,0.286,22,Abba
+113,113,Abba Live,9,58Ku6N4jGzSPIRq3mdZBEQ,Gimme! Gimme! Gimme! (A Man After Midnight),spotify:track:58Ku6N4jGzSPIRq3mdZBEQ,0.0871,0.452,0.916,0.654,0.503,-5.327,0.0454,121.375,0.609,19,Abba
+114,114,Abba Live,10,17Bjp6oXNxwce12SSXEA49,Super Trouper - Live,spotify:track:17Bjp6oXNxwce12SSXEA49,0.445,0.588,0.891,1.03e-05,0.868,-6.274,0.0578,122.641,0.359,20,Abba
+115,115,Abba Live,11,79ywa2ze32QHhrbR4vCdop,Waterloo,spotify:track:79ywa2ze32QHhrbR4vCdop,0.0080199999999999,0.285,0.989,0.124,0.983,-5.201,0.0934,158.769,0.112,20,Abba
+116,116,Abba Live,12,6hry2YPjgB0lAo8OfVZF6L,"Money, Money, Money",spotify:track:6hry2YPjgB0lAo8OfVZF6L,0.159,0.597,0.88,0.0443,0.954,-7.959,0.0448,121.16,0.345,20,Abba
+117,117,Abba Live,13,4mhaHoUJBDgtG1wHvWKK1c,The Name Of The Game / Eagle,spotify:track:4mhaHoUJBDgtG1wHvWKK1c,0.0956999999999999,0.414,0.911,0.00326,0.963,-6.185,0.0408,80.025,0.475,17,Abba
+118,118,Abba Live,14,3MR6XPNvbs6g9KjdVXOq8r,On And On And On,spotify:track:3MR6XPNvbs6g9KjdVXOq8r,0.295,0.594,0.974,0.0368,0.994,-6.153,0.054,122.307,0.544,16,Abba
+119,119,The Visitors,1,6xbjYuZ6rneoXLqW8YngPk,The Visitors,spotify:track:6xbjYuZ6rneoXLqW8YngPk,0.0765,0.616,0.6,0.000271,0.122,-9.77,0.0298,131.198,0.734,40,Abba
+120,120,The Visitors,2,4FrNFRa2ry8qSE9yoDDTNC,Head Over Heels,spotify:track:4FrNFRa2ry8qSE9yoDDTNC,0.593,0.827,0.75,7.6e-06,0.136,-6.821,0.0369,121.428,0.754,43,Abba
+121,121,The Visitors,3,1IHEefbRdL7VkscggnoPaM,When All Is Said And Done,spotify:track:1IHEefbRdL7VkscggnoPaM,0.418,0.719,0.689,9.77e-05,0.31,-7.509,0.0348,126.033,0.729,43,Abba
+122,122,The Visitors,4,0g1MW4vkmimWPKKYUVBKvr,Soldiers,spotify:track:0g1MW4vkmimWPKKYUVBKvr,0.178,0.431,0.634,3.99e-05,0.048,-7.834,0.0327,178.041,0.869,21,Abba
+123,123,The Visitors,5,71seJYIMqqYAUdiKKkiuDP,I Let The Music Speak,spotify:track:71seJYIMqqYAUdiKKkiuDP,0.81,0.326,0.27,1.22e-05,0.0626,-9.559,0.0334,80.356,0.181,20,Abba
+124,124,The Visitors,6,0ZAORzOCvS79PQjtv4d9Wk,One Of Us,spotify:track:0ZAORzOCvS79PQjtv4d9Wk,0.48,0.637,0.546,0.000337,0.0695,-8.581,0.0417,82.222,0.852,28,Abba
+125,125,The Visitors,7,6fwKbFsdaze8Oi2ODK7jBN,Two For The Price Of One,spotify:track:6fwKbFsdaze8Oi2ODK7jBN,0.298,0.687,0.487,0.00944,0.308,-9.906,0.0309,112.335,0.71,21,Abba
+126,126,The Visitors,8,1iddSyu0kgHpYQlcyI2ICR,Slipping Through My Fingers,spotify:track:1iddSyu0kgHpYQlcyI2ICR,0.778,0.469,0.428,1.63e-05,0.2,-9.142,0.0319,136.634,0.306,26,Abba
+127,127,The Visitors,9,1gVGDHJM8vhgQD8bn9ERTE,Like An Angel Passing Through My Room,spotify:track:1gVGDHJM8vhgQD8bn9ERTE,0.725,0.538,0.138,1.47e-05,0.35,-18.965,0.036,107.14,0.241,19,Abba
+128,128,The Visitors,10,6bFHvTWEKRHmtGQdhheo0z,Should I Laugh Or Cry,spotify:track:6bFHvTWEKRHmtGQdhheo0z,0.25,0.766,0.533,0.0757,0.0853,-10.57,0.0282,105.779,0.584,21,Abba
+129,129,The Visitors,11,1HjZJNStOd1gTDffnu6DK9,The Day Before You Came,spotify:track:1HjZJNStOd1gTDffnu6DK9,0.029,0.812,0.52,0.00181,0.0478,-9.718,0.0303,107.57,0.766,23,Abba
+130,130,The Visitors,12,45PCC9Q70n3VVUnHKU1eYY,Cassandra,spotify:track:45PCC9Q70n3VVUnHKU1eYY,0.709,0.404,0.488,0.0,0.0675,-7.691,0.0373,159.759,0.412,20,Abba
+131,131,The Visitors,13,4nMrx6pa1vFGkk8rU6rreL,Under Attack,spotify:track:4nMrx6pa1vFGkk8rU6rreL,0.199,0.889,0.671,0.044,0.0727,-7.801,0.0443,115.658,0.962,41,Abba
+132,132,The Visitors,1,67ksoOt4k169munrwgTPjD,The Visitors,spotify:track:67ksoOt4k169munrwgTPjD,0.0743999999999999,0.622,0.598,0.000299,0.119,-9.79,0.0296,131.183,0.719,38,Abba
+133,133,The Visitors,2,0sI9HAbEJn1eqWsxyFsf1I,Head Over Heels,spotify:track:0sI9HAbEJn1eqWsxyFsf1I,0.537,0.828,0.747,5.05e-06,0.137,-6.839,0.035,121.43,0.767,35,Abba
+134,134,The Visitors,3,6tlF4uh34QXqq81XrIyO0O,When All Is Said And Done,spotify:track:6tlF4uh34QXqq81XrIyO0O,0.424,0.723,0.679,5.6e-05,0.317,-7.517,0.0357,126.028,0.71,35,Abba
+135,135,The Visitors,4,6ZWLyNeazMJ3wZ3J0oDKtD,Soldiers,spotify:track:6ZWLyNeazMJ3wZ3J0oDKtD,0.186,0.551,0.636,7.58e-05,0.0552,-7.846,0.0264,89.155,0.887,31,Abba
+136,136,The Visitors,5,3dOfwsg6bOnZcPO7WPhR2g,I Let The Music Speak,spotify:track:3dOfwsg6bOnZcPO7WPhR2g,0.81,0.412,0.273,9.86e-06,0.0697,-9.561,0.0318,129.855,0.179,36,Abba
+137,137,The Visitors,6,1lJnJEccctzI7FvwvtAt8r,One Of Us,spotify:track:1lJnJEccctzI7FvwvtAt8r,0.509,0.65,0.552,0.000244,0.035,-8.53,0.0381,82.217,0.856,43,Abba
+138,138,The Visitors,7,4Dm7mi1fhPqiJzZpiHgYkY,Two For The Price Of One,spotify:track:4Dm7mi1fhPqiJzZpiHgYkY,0.32,0.685,0.489,0.0132,0.25,-9.869,0.032,112.431,0.68,30,Abba
+139,139,The Visitors,8,4OkSYRRFb3UMXtTj1SnBOR,Slipping Through My Fingers,spotify:track:4OkSYRRFb3UMXtTj1SnBOR,0.769,0.473,0.424,2.99e-05,0.237,-9.143,0.03,137.039,0.275,42,Abba
+140,140,The Visitors,9,6NCPMIbstQb2JYhrzNyMsU,Like An Angel Passing Through My Room,spotify:track:6NCPMIbstQb2JYhrzNyMsU,0.688,0.542,0.139,2.22e-05,0.38,-19.019,0.0359,107.15,0.263,29,Abba
+141,141,The Visitors,10,7bQgQ7FitDry8EWU9zP4XP,Should I Laugh Or Cry,spotify:track:7bQgQ7FitDry8EWU9zP4XP,0.257,0.764,0.538,0.0403,0.101,-10.562,0.0289,105.78,0.538,29,Abba
+142,142,The Visitors,11,4NgsH7iWjMeVQ7Fyj87g8M,The Day Before You Came,spotify:track:4NgsH7iWjMeVQ7Fyj87g8M,0.0226,0.809,0.532,0.00222,0.0752,-9.695,0.0304,107.554,0.731,33,Abba
+143,143,The Visitors,12,10lwFI0tLVym2OZCIgFcrw,Cassandra,spotify:track:10lwFI0tLVym2OZCIgFcrw,0.737,0.414,0.49,0.0,0.0577,-7.679,0.0365,159.722,0.423,29,Abba
+144,144,The Visitors,13,4PpCNwu53S3LXlwndoVgw5,Under Attack,spotify:track:4PpCNwu53S3LXlwndoVgw5,0.195,0.887,0.682,0.0503,0.0623,-7.795,0.0436,115.7,0.962,31,Abba
+145,145,The Visitors (Deluxe Edition),1,4lC9s3vwDa16w2G33KfF9C,The Visitors,spotify:track:4lC9s3vwDa16w2G33KfF9C,0.0821,0.626,0.44,0.000604,0.0659,-15.532,0.0305,131.175,0.727,50,Abba
+146,146,The Visitors (Deluxe Edition),2,5boJKR3VLBW0dc5167wKDE,Head Over Heels,spotify:track:5boJKR3VLBW0dc5167wKDE,0.601,0.829,0.535,4.42e-05,0.107,-13.229,0.0385,121.569,0.794,54,Abba
+147,147,The Visitors (Deluxe Edition),3,43T696K5X1s1mtxIuuUvvz,When All Is Said And Done,spotify:track:43T696K5X1s1mtxIuuUvvz,0.47,0.715,0.456,4.72e-05,0.281,-14.894,0.036,126.185,0.75,54,Abba
+148,148,The Visitors (Deluxe Edition),4,6TI91Un4sxz3ehEhguwKuc,Soldiers,spotify:track:6TI91Un4sxz3ehEhguwKuc,0.201,0.56,0.441,0.000155,0.0462,-14.907,0.0266,88.515,0.923,36,Abba
+149,149,The Visitors (Deluxe Edition),5,1TaDWN9kixXxE7eYx1Cctd,I Let The Music Speak,spotify:track:1TaDWN9kixXxE7eYx1Cctd,0.82,0.388,0.177,1.65e-05,0.0613,-14.238,0.0296,80.378,0.197,36,Abba
+150,150,The Visitors (Deluxe Edition),6,40IHflbrHcOuC8ZcYxUSAC,One Of Us,spotify:track:40IHflbrHcOuC8ZcYxUSAC,0.478,0.652,0.397,0.000946,0.0679,-15.245,0.0385,82.235,0.858,59,Abba
+151,151,The Visitors (Deluxe Edition),7,1vOgunupwdkhGjoB7SK2Va,Two For The Price Of One,spotify:track:1vOgunupwdkhGjoB7SK2Va,0.477,0.69,0.324,0.208,0.323,-16.545,0.0359,112.435,0.739,35,Abba
+152,152,The Visitors (Deluxe Edition),8,6TvxPS4fj4LUdjw2es4g21,Slipping Through My Fingers,spotify:track:6TvxPS4fj4LUdjw2es4g21,0.796,0.475,0.26,0.0016,0.109,-15.997,0.0322,137.212,0.339,60,Abba
+153,153,The Visitors (Deluxe Edition),9,08rAnrICc7QJl2FxaW45WO,Like An Angel Passing Through My Room,spotify:track:08rAnrICc7QJl2FxaW45WO,0.685,0.458,0.0408,2.06e-05,0.391,-27.446,0.0392,107.237,0.268,34,Abba
+154,154,The Visitors (Deluxe Edition),10,4ogNDyqRuHvv3qADGiCazn,Should I Laugh Or Cry - Intro Version,spotify:track:4ogNDyqRuHvv3qADGiCazn,0.243,0.757,0.398,0.0649,0.182,-15.444,0.0289,105.867,0.598,33,Abba
+155,155,The Visitors (Deluxe Edition),11,0nH4SKCFlfnypKLKlNBT1c,I Am The City,spotify:track:0nH4SKCFlfnypKLKlNBT1c,0.206,0.797,0.654,0.00214,0.0641,-12.652,0.0389,134.055,0.963,33,Abba
+156,156,The Visitors (Deluxe Edition),12,1HmwvKA2TLUh5QlY7QGLzt,You Owe Me One,spotify:track:1HmwvKA2TLUh5QlY7QGLzt,0.0806999999999999,0.874,0.91,0.000146,0.0743,-11.604,0.0336,124.774,0.965,31,Abba
+157,157,The Visitors (Deluxe Edition),13,5Qawpf7n2qDIcTaBDK67Sb,Cassandra,spotify:track:5Qawpf7n2qDIcTaBDK67Sb,0.718,0.325,0.347,0.0,0.0709999999999999,-12.62,0.0431,160.277,0.424,36,Abba
+158,158,The Visitors (Deluxe Edition),14,3MsQJQPi172pXgXcYGlenx,Under Attack,spotify:track:3MsQJQPi172pXgXcYGlenx,0.216,0.887,0.463,0.0362,0.0903999999999999,-15.301,0.0546,115.935,0.962,52,Abba
+159,159,The Visitors (Deluxe Edition),15,6W26h4KbGUnEaav5VWIyJm,The Day Before You Came,spotify:track:6W26h4KbGUnEaav5VWIyJm,0.0498,0.801,0.388,0.00421,0.0525,-14.594,0.0354,108.071,0.736,51,Abba
+160,160,The Visitors (Deluxe Edition),16,5kRtxsw0JGktZ4fkeXCLlh,From A Twinkling Star To A Passing Angel - Demo Medley,spotify:track:5kRtxsw0JGktZ4fkeXCLlh,0.72,0.4,0.178,7.94e-06,0.3,-16.762,0.0351,120.098,0.208,30,Abba
+161,161,Super Trouper,1,0J2p4KYdr6Mg4ET6JPlbe1,Super Trouper,spotify:track:0J2p4KYdr6Mg4ET6JPlbe1,0.457,0.764,0.626,6.35e-06,0.201,-8.274,0.0288,118.34,0.961,70,Abba
+162,162,Super Trouper,2,3oEkrIfXfSh9zGnE7eBzSV,The Winner Takes It All,spotify:track:3oEkrIfXfSh9zGnE7eBzSV,0.574,0.454,0.788,0.000766,0.0859,-6.748,0.0371,126.15,0.52,72,Abba
+163,163,Super Trouper,3,2dnR7o8cm9798o6KPsopki,On And On And On,spotify:track:2dnR7o8cm9798o6KPsopki,0.267,0.706,0.909,0.0689,0.162,-6.003,0.0276,127.992,0.945,52,Abba
+164,164,Super Trouper,4,1JnHZagDFvrT2lx4QovSOo,"Andante, Andante",spotify:track:1JnHZagDFvrT2lx4QovSOo,0.684,0.523,0.361,0.000348,0.0671,-10.718,0.0238,101.887,0.38,56,Abba
+165,165,Super Trouper,5,4JzJihuvIlhaYqSUNNJGBl,Me And I,spotify:track:4JzJihuvIlhaYqSUNNJGBl,0.183,0.659,0.781,0.0731,0.138,-8.132,0.0274,113.429,0.6,51,Abba
+166,166,Super Trouper,6,4AsvGVDWs16fqIiIdDzyvX,Happy New Year,spotify:track:4AsvGVDWs16fqIiIdDzyvX,0.813,0.51,0.375,0.0,0.145,-9.185,0.0288,132.552,0.25,52,Abba
+167,167,Super Trouper,7,6hHXft1nFyvfVv6UoRToPZ,Our Last Summer,spotify:track:6hHXft1nFyvfVv6UoRToPZ,0.72,0.504,0.528,6.28e-05,0.432,-7.889,0.0244,98.341,0.414,53,Abba
+168,168,Super Trouper,8,5jBPAlYvSkGDz4iDW7r2FC,The Piper,spotify:track:5jBPAlYvSkGDz4iDW7r2FC,0.275,0.417,0.552,5.88e-05,0.0914,-9.103,0.0321,177.302,0.423,40,Abba
+169,169,Super Trouper,9,4euAGZTszWPrriggYK0HG9,Lay All Your Love On Me,spotify:track:4euAGZTszWPrriggYK0HG9,0.117,0.678,0.727,0.00396,0.354,-7.844,0.0258,133.481,0.71,67,Abba
+170,170,Super Trouper,10,5Kq6zleJTirgokGAL7IJQc,"The Way Old Friends Do - Live At Wembley Arena, London, England / 1979",spotify:track:5Kq6zleJTirgokGAL7IJQc,0.725,0.1,0.502,2.93e-05,0.362,-8.558,0.0348,164.667,0.305,41,Abba
+171,171,Super Trouper,11,3f7RrcuDNwPnUUm8lU0z8p,Elaine,spotify:track:3f7RrcuDNwPnUUm8lU0z8p,0.282,0.592,0.867,0.0113,0.177,-7.537,0.0427,153.353,0.903,36,Abba
+172,172,Super Trouper,12,0gkax94ZwlPz1XbtCVg4Vd,Put On Your White Sombrero,spotify:track:0gkax94ZwlPz1XbtCVg4Vd,0.62,0.464,0.603,0.00063,0.312,-7.725,0.0281,81.668,0.594,35,Abba
+173,173,Super Trouper,1,2nMghZvtLx6DDgTEHEsb4w,Super Trouper,spotify:track:2nMghZvtLx6DDgTEHEsb4w,0.457,0.764,0.626,6.35e-06,0.172,-8.274,0.0288,118.324,0.961,61,Abba
+174,174,Super Trouper,2,2HeTmGTjl870ucJ8mF7zl5,The Winner Takes It All,spotify:track:2HeTmGTjl870ucJ8mF7zl5,0.548,0.457,0.785,0.000781,0.082,-6.783,0.0383,126.947,0.522,60,Abba
+175,175,Super Trouper,3,5k64eI1sCsJiFjkM2HTFi3,On And On And On,spotify:track:5k64eI1sCsJiFjkM2HTFi3,0.267,0.706,0.909,0.0689,0.161,-6.002,0.0276,128.005,0.945,42,Abba
+176,176,Super Trouper,4,6dyAyTBlsPZo6e0EtgjqWA,"Andante, Andante",spotify:track:6dyAyTBlsPZo6e0EtgjqWA,0.671,0.29,0.359,0.000307,0.0683,-10.733,0.0284,202.562,0.402,46,Abba
+177,177,Super Trouper,5,2VsNlP5FMLTVMez6vjtBj2,Me And I,spotify:track:2VsNlP5FMLTVMez6vjtBj2,0.149,0.656,0.774,0.0898999999999999,0.12,-8.16,0.0277,113.422,0.603,42,Abba
+178,178,Super Trouper,6,7nvmxaLf5hq9ZDTIMME27m,Happy New Year,spotify:track:7nvmxaLf5hq9ZDTIMME27m,0.818,0.509,0.382,0.0,0.121,-9.214,0.0281,132.51,0.264,40,Abba
+179,179,Super Trouper,7,59WTZPf9NQqv3PPSxwDTJq,Our Last Summer,spotify:track:59WTZPf9NQqv3PPSxwDTJq,0.708,0.508,0.531,6.14e-05,0.509,-7.902,0.0241,98.391,0.417,41,Abba
+180,180,Super Trouper,8,5dlDZZv6AdCvkeCt8rJvg8,The Piper,spotify:track:5dlDZZv6AdCvkeCt8rJvg8,0.267,0.572,0.553,0.00013,0.0825,-9.185,0.0258,88.496,0.427,28,Abba
+181,181,Super Trouper,9,6cH34Jb2W9s9w8ooRtZZPf,Lay All Your Love On Me,spotify:track:6cH34Jb2W9s9w8ooRtZZPf,0.107,0.677,0.722,0.00912,0.366,-7.858,0.0258,133.472,0.766,54,Abba
+182,182,Super Trouper,10,0njtsplDEEmErO3d8nGB5q,"The Way Old Friends Do - Live At Wembley Arena, London, England / 1979",spotify:track:0njtsplDEEmErO3d8nGB5q,0.718,0.18,0.516,1.23e-05,0.331,-8.528,0.0316,98.833,0.322,30,Abba
+183,183,Super Trouper,11,1MYWmuOGiw6lHuEYZM9pdP,Elaine,spotify:track:1MYWmuOGiw6lHuEYZM9pdP,0.213,0.593,0.861,0.0081499999999999,0.176,-7.559,0.0412,153.365,0.908,26,Abba
+184,184,Super Trouper,12,2bACMuM250AF9rErF1uwWg,Put On Your White Sombrero,spotify:track:2bACMuM250AF9rErF1uwWg,0.606,0.466,0.61,0.000254,0.218,-7.81,0.0278,82.011,0.591,24,Abba
+185,185,Voulez-Vous,1,71or1G6CbfIttRDnBnTTAL,As Good As New,spotify:track:71or1G6CbfIttRDnBnTTAL,0.199,0.846,0.783,0.0225,0.0753,-5.697,0.0327,138.843,0.967,44,Abba
+186,186,Voulez-Vous,2,17OqI90oTFZ3J8PVu6j07V,Voulez-Vous,spotify:track:17OqI90oTFZ3J8PVu6j07V,0.149,0.708,0.774,0.00109,0.169,-6.931,0.0372,126.636,0.903,65,Abba
+187,187,Voulez-Vous,3,1PtJclc46wTk367PlsU6Uj,I Have A Dream,spotify:track:1PtJclc46wTk367PlsU6Uj,0.6,0.549,0.374,0.0,0.178,-12.049,0.0244,104.311,0.439,61,Abba
+188,188,Voulez-Vous,4,7rWgGyRK7RAqAAXy4bLft9,Angeleyes,spotify:track:7rWgGyRK7RAqAAXy4bLft9,0.523,0.719,0.922,0.000163,0.0867,-6.091,0.0338,133.113,0.964,55,Abba
+189,189,Voulez-Vous,5,4IKF9BDHZALfCXYXdS0koQ,The King Has Lost His Crown,spotify:track:4IKF9BDHZALfCXYXdS0koQ,0.162,0.717,0.557,0.000128,0.0644,-8.236,0.0287,114.737,0.446,38,Abba
+190,190,Voulez-Vous,6,2HPB3px8MJZRMfu1L65Z41,Does Your Mother Know,spotify:track:2HPB3px8MJZRMfu1L65Z41,0.151,0.728,0.865,2.43e-05,0.0906,-5.68,0.0364,135.571,0.975,60,Abba
+191,191,Voulez-Vous,7,3R47KOuGuGvmoeQqbODPa3,If It Wasn't For The Nights,spotify:track:3R47KOuGuGvmoeQqbODPa3,0.29,0.7,0.88,0.00186,0.209,-4.692,0.0389,105.65,0.872,56,Abba
+192,192,Voulez-Vous,8,762B4bOcXF7I2Y8UlKTyTy,Chiquitita,spotify:track:762B4bOcXF7I2Y8UlKTyTy,0.734,0.5,0.554,3.72e-06,0.312,-8.108,0.0354,84.229,0.372,66,Abba
+193,193,Voulez-Vous,9,0mb5Q9w5GJKU7HClkEzHpy,Lovers (Live A Little Longer),spotify:track:0mb5Q9w5GJKU7HClkEzHpy,0.166,0.519,0.732,2.78e-05,0.314,-6.371,0.0466,173.347,0.734,41,Abba
+194,194,Voulez-Vous,10,4zoWdR02nRwK8NWqpCM151,Kisses Of Fire,spotify:track:4zoWdR02nRwK8NWqpCM151,0.147,0.589,0.754,0.000209,0.427,-6.963,0.0466,135.449,0.622,44,Abba
+195,195,Voulez-Vous,11,35iCSlFxyiawRBUOtQAkeT,Summer Night City,spotify:track:35iCSlFxyiawRBUOtQAkeT,0.0138,0.476,0.858,0.0,0.177,-5.66,0.0371,130.703,0.765,49,Abba
+196,196,Voulez-Vous,12,2TyQF1DcQ8k2cLjiweqQyG,Lovelight - Original Version,spotify:track:2TyQF1DcQ8k2cLjiweqQyG,0.0913,0.56,0.723,0.000157,0.399,-5.938,0.0305,125.092,0.692,36,Abba
+197,197,Voulez-Vous,13,3vkQ5DAB1qQMYO4Mr9zJN6,Gimme! Gimme! Gimme! (A Man After Midnight),spotify:track:3vkQ5DAB1qQMYO4Mr9zJN6,0.02,0.749,0.491,0.00899,0.159,-9.655,0.0403,119.528,0.536,75,Abba
+198,198,Voulez-Vous,1,2bOU6wQfK528vCv9TD2Co5,As Good As New,spotify:track:2bOU6wQfK528vCv9TD2Co5,0.194,0.844,0.783,0.0199,0.079,-5.662,0.0319,138.856,0.971,35,Abba
+199,199,Voulez-Vous,2,6jJYlWqSUHXoX15nGk3Yfe,Voulez-Vous,spotify:track:6jJYlWqSUHXoX15nGk3Yfe,0.124,0.707,0.775,0.000585,0.154,-6.91,0.0371,126.662,0.909,55,Abba
+200,200,Voulez-Vous,3,6Xibu53y8mquzUJL6HGEG2,I Have A Dream,spotify:track:6Xibu53y8mquzUJL6HGEG2,0.573,0.55,0.37,0.0,0.171,-12.019,0.0249,104.288,0.459,51,Abba
+201,201,Voulez-Vous,4,5tqTKmoKtY5926Z9KRTNjB,Angeleyes,spotify:track:5tqTKmoKtY5926Z9KRTNjB,0.543,0.716,0.914,0.000115,0.0801,-6.04,0.0347,133.162,0.966,44,Abba
+202,202,Voulez-Vous,5,7Ktvf3jSNSHajArfP8vpRv,The King Has Lost His Crown,spotify:track:7Ktvf3jSNSHajArfP8vpRv,0.155,0.721,0.588,9.67e-05,0.0655,-8.206,0.0282,114.75,0.47,30,Abba
+203,203,Voulez-Vous,6,1o397dDHRvqZfXfVy9YGdt,Does Your Mother Know,spotify:track:1o397dDHRvqZfXfVy9YGdt,0.153,0.722,0.859,4.39e-05,0.0586,-5.706,0.036,135.628,0.973,47,Abba
+204,204,Voulez-Vous,7,18BxnxbC0zEOL7OVq9Zm9k,If It Wasn't For The Nights,spotify:track:18BxnxbC0zEOL7OVq9Zm9k,0.301,0.701,0.879,0.000914,0.123,-4.68,0.0383,105.642,0.895,52,Abba
+205,205,Voulez-Vous,8,4g5LUzHFRr4Zlok8KzERmI,Chiquitita,spotify:track:4g5LUzHFRr4Zlok8KzERmI,0.701,0.526,0.555,6.69e-06,0.299,-8.08,0.0338,84.088,0.38,59,Abba
+206,206,Voulez-Vous,9,4ASaSHvHH4pjwL0dKjRA8C,Lovers (Live A Little Longer),spotify:track:4ASaSHvHH4pjwL0dKjRA8C,0.141,0.605,0.738,2.05e-05,0.222,-6.388,0.0357,86.53,0.747,34,Abba
+207,207,Voulez-Vous,10,0HPF6YFoMBA8mOU9dqHlNL,Kisses Of Fire,spotify:track:0HPF6YFoMBA8mOU9dqHlNL,0.153,0.585,0.764,0.000187,0.359,-6.96,0.0456,135.37,0.674,36,Abba
+208,208,Voulez-Vous,11,2ybeXAz8fQTdxGajZVsEiJ,Summer Night City,spotify:track:2ybeXAz8fQTdxGajZVsEiJ,0.011,0.475,0.86,0.0,0.261,-5.649,0.0362,130.689,0.786,37,Abba
+209,209,Voulez-Vous,12,3DytidwwDXv5gZVilj2lO1,Lovelight,spotify:track:3DytidwwDXv5gZVilj2lO1,0.111,0.559,0.72,0.000105,0.328,-5.948,0.0302,125.139,0.683,29,Abba
+210,210,Voulez-Vous,13,2PzCOP5Aj9SABiBgNEZ52G,Gimme! Gimme! Gimme! (A Man After Midnight),spotify:track:2PzCOP5Aj9SABiBgNEZ52G,0.0163,0.747,0.492,0.00897,0.224,-9.616,0.04,119.531,0.533,66,Abba
+211,211,The Album,1,0ofI7zAV865oByamlFk53U,Eagle,spotify:track:0ofI7zAV865oByamlFk53U,0.21,0.485,0.768,6.23e-06,0.214,-6.725,0.0261,85.249,0.57,40,Abba
+212,212,The Album,2,6vQN2a9QSgWcm74KEZYfDL,Take A Chance On Me,spotify:track:6vQN2a9QSgWcm74KEZYfDL,0.173,0.685,0.685,0.0,0.201,-8.103,0.0254,106.987,0.925,63,Abba
+213,213,The Album,3,684u4laj4uvK17yRwk0yPV,"One Man, One Woman",spotify:track:684u4laj4uvK17yRwk0yPV,0.528,0.484,0.53,3.3e-05,0.0868,-7.932,0.0259,71.469,0.587,40,Abba
+214,214,The Album,4,4CGoNahcgmwPdesr6f5Tng,The Name Of The Game,spotify:track:4CGoNahcgmwPdesr6f5Tng,0.404,0.66,0.564,0.000106,0.0557,-8.683,0.0302,77.092,0.623,48,Abba
+215,215,The Album,5,6p1FxZfibk7Qf5Le5DLdBM,Move On,spotify:track:6p1FxZfibk7Qf5Le5DLdBM,0.323,0.57,0.565,2.12e-06,0.734,-8.907,0.0246,97.34,0.812,29,Abba
+216,216,The Album,6,5P2FFIGTJW9Qg57oA9kzec,Hole In Your Soul,spotify:track:5P2FFIGTJW9Qg57oA9kzec,0.0782999999999999,0.414,0.808,0.0148,0.297,-5.546,0.09,154.621,0.648,28,Abba
+217,217,The Album,7,1HNWHQqLxjI2LXnlIY9DTR,Thank You For The Music,spotify:track:1HNWHQqLxjI2LXnlIY9DTR,0.837,0.288,0.416,0.0,0.097,-9.176,0.0412,199.517,0.353,50,Abba
+218,218,The Album,8,4Dmr0pWEDkXmdShYNFBWut,I Wonder (Departure),spotify:track:4Dmr0pWEDkXmdShYNFBWut,0.515,0.382,0.244,8.18e-05,0.113,-11.218,0.0283,134.978,0.217,28,Abba
+219,219,The Album,9,0g8rr7rjw5QVxPqTovO46A,I'm A Marionette,spotify:track:0g8rr7rjw5QVxPqTovO46A,0.379,0.454,0.671,1.09e-05,0.0966999999999999,-6.826,0.0411,149.133,0.119,24,Abba
+220,220,The Album,10,5Tj9ViyVn4sgqAP03gfoO3,Thank You For The Music - Doris Day Mix,spotify:track:5Tj9ViyVn4sgqAP03gfoO3,0.663,0.632,0.436,0.0,0.237,-7.437,0.0278,98.573,0.595,21,Abba
+221,221,The Album,1,69OmpIXN0WPreDYxoFwlYC,Eagle - Long Version,spotify:track:69OmpIXN0WPreDYxoFwlYC,0.216,0.481,0.763,9.75e-06,0.204,-6.698,0.0263,85.191,0.554,51,Abba
+222,222,The Album,2,5BckPAYcKEJuYs1eV1BHHe,Take A Chance On Me,spotify:track:5BckPAYcKEJuYs1eV1BHHe,0.163,0.684,0.675,0.0,0.242,-8.123,0.0257,107.064,0.924,68,Abba
+223,223,The Album,3,5fVCO1kPh1qE3s8aVqRv9t,"One Man, One Woman",spotify:track:5fVCO1kPh1qE3s8aVqRv9t,0.531,0.484,0.524,2.24e-05,0.148,-7.931,0.0263,71.828,0.55,49,Abba
+224,224,The Album,4,1lDo24S34NvI1pAg7Oxldc,The Name Of The Game,spotify:track:1lDo24S34NvI1pAg7Oxldc,0.357,0.656,0.565,0.000192,0.0629,-8.722,0.0301,77.049,0.615,57,Abba
+225,225,The Album,5,3JqQ2YBFQwinmY2E9Ujggu,Move On,spotify:track:3JqQ2YBFQwinmY2E9Ujggu,0.322,0.57,0.556,3.21e-06,0.779,-8.903,0.0251,97.36,0.797,41,Abba
+226,226,The Album,6,3bqPiLwxU0sltObhhVky9X,Hole In Your Soul,spotify:track:3bqPiLwxU0sltObhhVky9X,0.0767,0.395,0.811,0.0159,0.342,-5.546,0.0945,154.708,0.615,38,Abba
+227,227,The Album,7,08GOw3NsrJ0LsCCeyqzt3b,Thank You For The Music,spotify:track:08GOw3NsrJ0LsCCeyqzt3b,0.835,0.283,0.417,0.0,0.102,-9.124,0.0404,201.145,0.373,61,Abba
+228,228,The Album,8,3F814TK36gzKsUxBJ3V3iI,I Wonder (Departure),spotify:track:3F814TK36gzKsUxBJ3V3iI,0.524,0.372,0.25,4.8e-05,0.119,-11.126,0.0281,135.396,0.227,33,Abba
+229,229,The Album,9,1ajok0m1FDgGtrBguMIy5Q,I'm A Marionette,spotify:track:1ajok0m1FDgGtrBguMIy5Q,0.376,0.458,0.662,1.16e-05,0.108,-6.811,0.0396,149.907,0.137,32,Abba
+230,230,The Album,10,59l71sxjX2oBVPQGYlqvnb,Thank You For The Music - Doris Day Mix,spotify:track:59l71sxjX2oBVPQGYlqvnb,0.666,0.652,0.436,0.0,0.279,-7.464,0.0283,98.605,0.562,30,Abba
+231,231,Arrival,1,6zk4lFEYIWs1UZZ03NVetT,When I Kissed The Teacher,spotify:track:6zk4lFEYIWs1UZZ03NVetT,0.519,0.527,0.939,6.13e-05,0.06,-5.795,0.0442,153.755,0.714,59,Abba
+232,232,Arrival,2,0GjEhVFGZW8afUYGChu3Rr,Dancing Queen,spotify:track:0GjEhVFGZW8afUYGChu3Rr,0.358,0.543,0.87,0.0009389999999999,0.792,-6.514,0.0428,100.804,0.754,76,Abba
+233,233,Arrival,3,7qbQFKgGOxk7aoCBGwLZuA,"My Love, My Life",spotify:track:7qbQFKgGOxk7aoCBGwLZuA,0.781,0.208,0.424,7.01e-05,0.107,-7.532,0.0275,148.875,0.247,54,Abba
+234,234,Arrival,4,5Ale7Htu2SdvOcBwlEdGhZ,Dum Dum Diddle,spotify:track:5Ale7Htu2SdvOcBwlEdGhZ,0.228,0.666,0.818,1.65e-05,0.306,-6.581,0.0321,127.33,0.881,50,Abba
+235,235,Arrival,5,798cuJeotvXP8UVa8GJPnD,"Knowing Me, Knowing You",spotify:track:798cuJeotvXP8UVa8GJPnD,0.0399,0.546,0.733,1.11e-06,0.235,-7.073,0.0299,107.285,0.91,61,Abba
+236,236,Arrival,6,3lKN03PDeBnXZS7sDukRBt,"Money, Money, Money",spotify:track:3lKN03PDeBnXZS7sDukRBt,0.535,0.787,0.704,0.00305,0.089,-6.873,0.0385,120.701,0.646,58,Abba
+237,237,Arrival,7,32SHYXEJZkpsnJkcggucM0,That's Me,spotify:track:32SHYXEJZkpsnJkcggucM0,0.167,0.558,0.864,0.000216,0.242,-6.654,0.0295,129.42,0.841,51,Abba
+238,238,Arrival,8,65EhfozJEurgR34SyrNV3P,Why Did It Have To Be Me?,spotify:track:65EhfozJEurgR34SyrNV3P,0.517,0.557,0.9,0.00554,0.535,-6.215,0.0387,117.42,0.863,50,Abba
+239,239,Arrival,9,7qBRGNCdXeqLtGsxZE3Z1m,Tiger,spotify:track:7qBRGNCdXeqLtGsxZE3Z1m,0.279,0.569,0.907,1.95e-06,0.106,-5.77,0.0429,134.819,0.836,40,Abba
+240,240,Arrival,10,3jX1p2EoSE3jpSlpapMcaJ,Arrival,spotify:track:3jX1p2EoSE3jpSlpapMcaJ,0.689,0.232,0.491,0.938,0.0661999999999999,-7.328,0.0329,69.612,0.153,40,Abba
+241,241,Arrival,11,4BM8yJ0PzBi2ZewpMTOxtx,Fernando,spotify:track:4BM8yJ0PzBi2ZewpMTOxtx,0.627,0.354,0.535,2.9e-06,0.0808,-8.876,0.0303,110.821,0.434,64,Abba
+242,242,Arrival,12,1S2B1KJWZyPVu0dKWcG94f,Happy Hawaii,spotify:track:1S2B1KJWZyPVu0dKWcG94f,0.288,0.525,0.783,0.000422,0.375,-7.325,0.041,118.274,0.331,38,Abba
+243,243,Arrival,1,21aMSP1Q1qKpixpgXaalAS,When I Kissed The Teacher,spotify:track:21aMSP1Q1qKpixpgXaalAS,0.506,0.529,0.933,4.41e-05,0.0572,-5.802,0.0452,153.549,0.723,48,Abba
+244,244,Arrival,2,4NtUY5IGzHCaqfZemmAu56,Dancing Queen,spotify:track:4NtUY5IGzHCaqfZemmAu56,0.382,0.539,0.884,0.00166,0.76,-6.53,0.0403,100.812,0.752,72,Abba
+245,245,Arrival,3,37PnQPuaQPIGrL5cXb2MeG,"My Love, My Life",spotify:track:37PnQPuaQPIGrL5cXb2MeG,0.774,0.207,0.426,0.000383,0.0966999999999999,-7.505,0.0275,149.078,0.226,44,Abba
+246,246,Arrival,4,7tyXKNbNJfQcYG8uHfPZah,Dum Dum Diddle,spotify:track:7tyXKNbNJfQcYG8uHfPZah,0.214,0.661,0.817,4.16e-05,0.19,-6.541,0.0317,127.333,0.857,41,Abba
+247,247,Arrival,5,46ou4l4zvrZMada0TgoVH9,"Knowing Me, Knowing You",spotify:track:46ou4l4zvrZMada0TgoVH9,0.0426,0.55,0.741,3.72e-06,0.235,-7.109,0.0299,107.327,0.903,53,Abba
+248,248,Arrival,6,4sNG5v6T3N8nrfAfNIHE9v,"Money, Money, Money",spotify:track:4sNG5v6T3N8nrfAfNIHE9v,0.524,0.782,0.692,0.00163,0.105,-6.86,0.0367,120.762,0.704,46,Abba
+249,249,Arrival,7,2GxQK4NNn5sG2eRHZCn6fy,That's Me,spotify:track:2GxQK4NNn5sG2eRHZCn6fy,0.194,0.562,0.857,0.000343,0.231,-6.674,0.0297,129.429,0.815,42,Abba
+250,250,Arrival,8,5mCQlqCkrfNei82Pp9WuzO,Why Did It Have To Be Me?,spotify:track:5mCQlqCkrfNei82Pp9WuzO,0.541,0.557,0.888,0.00706,0.485,-6.159,0.0379,117.441,0.877,40,Abba
+251,251,Arrival,9,4cYz1jXDKN8QXXU8bUSUGd,Tiger,spotify:track:4cYz1jXDKN8QXXU8bUSUGd,0.299,0.568,0.905,1.54e-06,0.0854,-5.714,0.0443,134.747,0.833,31,Abba
+252,252,Arrival,10,2dYXcpCfs5zNkqAqikl52I,Arrival,spotify:track:2dYXcpCfs5zNkqAqikl52I,0.74,0.192,0.49,0.944,0.0514,-7.343,0.0333,49.471,0.156,31,Abba
+253,253,Arrival,11,1IxDBsZdVMhfkLqrZjARpk,Fernando,spotify:track:1IxDBsZdVMhfkLqrZjARpk,0.583,0.353,0.526,2.17e-06,0.0762,-8.868,0.0299,110.517,0.467,58,Abba
+254,254,Arrival,12,1uvdgJ6KVIfzxAuEfDPyhv,Happy Hawaii,spotify:track:1uvdgJ6KVIfzxAuEfDPyhv,0.301,0.539,0.772,0.00134,0.38,-7.327,0.0377,118.089,0.351,30,Abba
+255,255,Abba,1,2TxCwUlqaOH3TIyJqGgR91,Mamma Mia,spotify:track:2TxCwUlqaOH3TIyJqGgR91,0.295,0.749,0.748,0.000443,0.469,-7.011,0.0323,137.547,0.827,72,Abba
+256,256,Abba,2,4qQnJL18qFNX5HIko7Azhj,"Hey, Hey Helen",spotify:track:4qQnJL18qFNX5HIko7Azhj,0.00226,0.649,0.668,0.0157,0.0594,-6.647,0.0425,117.867,0.766,48,Abba
+257,257,Abba,3,4wmxuU2zml8evBPREe1cHU,Tropical Loveland,spotify:track:4wmxuU2zml8evBPREe1cHU,0.531,0.664,0.474,1.07e-05,0.0677,-10.572,0.061,81.884,0.837,34,Abba
+258,258,Abba,4,6yZv0Nl6BXABbXoPVpfF5y,SOS,spotify:track:6yZv0Nl6BXABbXoPVpfF5y,0.251,0.415,0.713,0.00197,0.289,-5.55,0.0278,125.056,0.579,60,Abba
+259,259,Abba,5,1tCRgQd7muhZCqAeMQziqa,Man In The Middle,spotify:track:1tCRgQd7muhZCqAeMQziqa,0.144,0.654,0.671,2.79e-06,0.0535,-10.295,0.0633,166.299,0.962,33,Abba
+260,260,Abba,6,5jfZEsdQMAaoeDLib5rLu4,Bang-A-Boomerang,spotify:track:5jfZEsdQMAaoeDLib5rLu4,0.034,0.499,0.761,0.000613,0.32,-3.457,0.0301,131.998,0.886,50,Abba
+261,261,Abba,7,0x5BKBAcia1th7UzcoHnD1,"I Do, I Do, I Do, I Do, I Do",spotify:track:0x5BKBAcia1th7UzcoHnD1,0.677,0.461,0.806,0.0163,0.348,-4.257,0.0355,110.701,0.748,56,Abba
+262,262,Abba,8,0Xb6Q1bGZnDnzRgicBHBRJ,Rock Me,spotify:track:0Xb6Q1bGZnDnzRgicBHBRJ,0.537,0.691,0.857,0.0,0.502,-4.68,0.0872,132.753,0.741,40,Abba
+263,263,Abba,9,2G5WyPGibVmXuI3dXuMpWw,Intermezzo No.1,spotify:track:2G5WyPGibVmXuI3dXuMpWw,0.0604,0.398,0.681,0.861,0.31,-6.267,0.0283,154.776,0.495,32,Abba
+264,264,Abba,10,3F2sMDeuhueiBpDqEbRhCF,I've Been Waiting For You,spotify:track:3F2sMDeuhueiBpDqEbRhCF,0.651,0.394,0.573,0.0007649999999999,0.107,-5.859,0.028,153.742,0.438,45,Abba
+265,265,Abba,11,6GwEXzeLKORRKjmKDHfyUp,So Long,spotify:track:6GwEXzeLKORRKjmKDHfyUp,0.0305,0.311,0.905,0.846,0.343,-4.727,0.0496,159.134,0.772,50,Abba
+266,266,Abba,12,58646Q0ETWu727dB0y85Pf,Crazy World,spotify:track:58646Q0ETWu727dB0y85Pf,0.381,0.495,0.595,0.000103,0.291,-9.067,0.0335,135.402,0.547,34,Abba
+267,267,Abba,13,3VmTQCzy8QWwKBxD9g0VSU,Medley: Pick A Bale Of Cotton,spotify:track:3VmTQCzy8QWwKBxD9g0VSU,0.0289,0.336,0.953,1.35e-05,0.0599,-4.402,0.241,167.677,0.622,31,Abba
+268,268,Abba,1,22NN4BS1AlqVbyKIWExgON,Mamma Mia,spotify:track:22NN4BS1AlqVbyKIWExgON,0.287,0.75,0.754,0.000207,0.444,-6.999,0.0327,137.533,0.83,64,Abba
+269,269,Abba,2,7dTdyczh09okXyhaq982OT,"Hey, Hey Helen",spotify:track:7dTdyczh09okXyhaq982OT,0.00261,0.649,0.663,0.0104,0.0553,-6.617,0.0398,117.863,0.773,39,Abba
+270,270,Abba,3,16uiTPYC5XsQDPcsDr7mCY,Tropical Loveland,spotify:track:16uiTPYC5XsQDPcsDr7mCY,0.512,0.659,0.479,3.58e-05,0.0449,-10.528,0.0514,81.497,0.857,22,Abba
+271,271,Abba,4,6T5UMetPqrN3YKK2oNZnr3,SOS,spotify:track:6T5UMetPqrN3YKK2oNZnr3,0.264,0.416,0.698,0.00364,0.333,-5.572,0.0282,124.867,0.561,50,Abba
+272,272,Abba,5,6IpOY7nB6mycoMx1ySqYYJ,Man In The Middle,spotify:track:6IpOY7nB6mycoMx1ySqYYJ,0.159,0.656,0.673,3.7e-06,0.0416,-10.328,0.0637,166.418,0.961,22,Abba
+273,273,Abba,6,0bpg3LHQI12aDYd9rwYCC9,Bang-A-Boomerang,spotify:track:0bpg3LHQI12aDYd9rwYCC9,0.0262,0.502,0.756,0.00107,0.271,-3.45,0.0306,131.885,0.831,40,Abba
+274,274,Abba,7,57BDT1bvzeAzl3IXMQU4Ri,"I Do, I Do, I Do, I Do, I Do",spotify:track:57BDT1bvzeAzl3IXMQU4Ri,0.669,0.468,0.803,0.0181,0.343,-4.28,0.0335,110.636,0.722,47,Abba
+275,275,Abba,8,6akTmDtVqP5BOtQtECbNDE,Rock Me,spotify:track:6akTmDtVqP5BOtQtECbNDE,0.533,0.688,0.847,0.0,0.432,-4.675,0.0873,132.682,0.79,27,Abba
+276,276,Abba,9,5F4dnFWXhTSTsX4Jvp4UoM,Intermezzo No.1,spotify:track:5F4dnFWXhTSTsX4Jvp4UoM,0.07,0.417,0.688,0.861,0.209,-6.247,0.0279,156.333,0.505,21,Abba
+277,277,Abba,10,0XKta2wRdEx9dDCxPYhd7S,I've Been Waiting For You,spotify:track:0XKta2wRdEx9dDCxPYhd7S,0.623,0.402,0.58,0.00121,0.073,-5.897,0.0281,153.693,0.426,34,Abba
+278,278,Abba,11,4KtcyvH38JUMmKBNtRfh0V,So Long,spotify:track:4KtcyvH38JUMmKBNtRfh0V,0.0351,0.309,0.907,0.736,0.293,-4.712,0.0489,159.432,0.747,41,Abba
+279,279,Abba,12,1ozUElr0hTGdIsirDoBXv8,Crazy World,spotify:track:1ozUElr0hTGdIsirDoBXv8,0.419,0.491,0.605,8.29e-05,0.223,-9.102,0.0334,135.421,0.551,22,Abba
+280,280,Abba,13,7ls1Z7uRrZKnicxjlX0d7D,Medley: Pick A Bale Of Cotton,spotify:track:7ls1Z7uRrZKnicxjlX0d7D,0.0341,0.339,0.956,1.29e-05,0.0523,-4.419,0.22,167.959,0.658,20,Abba
+281,281,Waterloo (Deluxe Edition),1,2vMQmBmcmFsdLQQgXl3PtE,Waterloo,spotify:track:2vMQmBmcmFsdLQQgXl3PtE,0.193,0.445,0.882,1.32e-05,0.0854,-6.575,0.045,147.166,0.834,52,Abba
+282,282,Waterloo (Deluxe Edition),2,4PQZTGOlIbYSbFVKi1aOzc,Sitting In The Palmtree,spotify:track:4PQZTGOlIbYSbFVKi1aOzc,0.699,0.855,0.366,3.47e-06,0.0519,-12.432,0.0393,112.406,0.907,24,Abba
+283,283,Waterloo (Deluxe Edition),3,2HnKmdlhi5IwAEqJKn5qFx,King Kong Song,spotify:track:2HnKmdlhi5IwAEqJKn5qFx,0.0799,0.554,0.901,0.000183,0.0878,-8.448,0.0428,155.075,0.818,24,Abba
+284,284,Waterloo (Deluxe Edition),4,3wvrmmNB16rtreCvgw3sqv,Hasta Manana,spotify:track:3wvrmmNB16rtreCvgw3sqv,0.233,0.448,0.598,0.0,0.0803,-6.072,0.0262,169.003,0.648,29,Abba
+285,285,Waterloo (Deluxe Edition),5,7IHKr96kTrygmAoLyu4zMw,My Mama Said,spotify:track:7IHKr96kTrygmAoLyu4zMw,0.105,0.631,0.64,4.38e-05,0.176,-11.579,0.0999,105.04,0.751,23,Abba
+286,286,Waterloo (Deluxe Edition),6,16vVJdUJPhQ4pyjlUjfGy8,Dance (While The Music Still Goes On),spotify:track:16vVJdUJPhQ4pyjlUjfGy8,0.269,0.585,0.799,0.0,0.115,-8.379,0.0559,131.181,0.551,27,Abba
+287,287,Waterloo (Deluxe Edition),7,5JLRQJ8vhuIQuJblXxfVWg,"Honey, Honey",spotify:track:5JLRQJ8vhuIQuJblXxfVWg,0.127,0.481,0.769,0.000324,0.122,-9.264,0.0595,140.171,0.72,36,Abba
+288,288,Waterloo (Deluxe Edition),8,1rrg0TY4nhMZ1sD4YfSfvf,Watch Out,spotify:track:1rrg0TY4nhMZ1sD4YfSfvf,0.00348,0.625,0.794,0.143,0.294,-9.78,0.0483,130.174,0.691,22,Abba
+289,289,Waterloo (Deluxe Edition),9,6Wc0RFHf8hE5JEWpvQRCRj,What About Livingstone,spotify:track:6Wc0RFHf8hE5JEWpvQRCRj,0.246,0.676,0.622,0.000159,0.0649,-9.307,0.0624,148.299,0.843,22,Abba
+290,290,Waterloo (Deluxe Edition),10,0NavuOQnZ4hCOQY3YS5BzJ,Gonna Sing You My Love Song,spotify:track:0NavuOQnZ4hCOQY3YS5BzJ,0.376,0.562,0.413,0.0,0.0825,-9.852,0.0264,79.69,0.397,22,Abba
+291,291,Waterloo (Deluxe Edition),11,6xyveLMP3g9vuoceLWulWK,Suzy-Hang-Around,spotify:track:6xyveLMP3g9vuoceLWulWK,0.0275,0.214,0.551,0.733,0.311,-10.966,0.0314,143.172,0.602,21,Abba
+292,292,Waterloo (Deluxe Edition),12,4CxrJFB5Mr5efFmOqXQctG,"Ring, Ring - US Remix",spotify:track:4CxrJFB5Mr5efFmOqXQctG,0.00161,0.307,0.714,0.0,0.801,-7.511,0.0491,132.315,0.747,22,Abba
+293,293,Waterloo (Deluxe Edition),13,0I3StbOvOKwXKhg7kadCxy,Waterloo - Swedish Version,spotify:track:0I3StbOvOKwXKhg7kadCxy,0.791,0.465,0.846,3.57e-05,0.109,-5.636,0.038,147.561,0.801,26,Abba
+294,294,Waterloo (Deluxe Edition),14,0FF2lWJruxD7wSOtOTIb8L,Honey Honey - Swedish Version,spotify:track:0FF2lWJruxD7wSOtOTIb8L,0.275,0.485,0.711,7.89e-06,0.6,-8.737,0.0537,138.186,0.668,22,Abba
+295,295,Waterloo (Deluxe Edition),15,2cAGQPzhHtQztABCiplaTp,Waterloo - German Version,spotify:track:2cAGQPzhHtQztABCiplaTp,0.26,0.422,0.929,5.99e-05,0.259,-5.678,0.0777,147.762,0.661,25,Abba
+296,296,Waterloo (Deluxe Edition),16,5r5IiLSBhMJ9mo77C3ZrJb,Hasta Mañana - Spanish Version,spotify:track:5r5IiLSBhMJ9mo77C3ZrJb,0.58,0.591,0.56,0.0,0.107,-7.218,0.0332,83.692,0.453,31,Abba
+297,297,Waterloo (Deluxe Edition),17,1QbCjPhQDmMPR4NLuRNily,Waterloo - French Version,spotify:track:1QbCjPhQDmMPR4NLuRNily,0.126,0.474,0.866,0.0,0.254,-6.616,0.0485,72.776,0.868,25,Abba
+298,298,Waterloo (Deluxe Edition),18,5UwxImdvNoElIk7bAgk56p,Ring Ring - 1974 Remix / Single Version,spotify:track:5UwxImdvNoElIk7bAgk56p,0.00748,0.535,0.798,0.618,0.0746,-6.508,0.0403,131.119,0.768,22,Abba
+299,299,Waterloo (Deluxe Edition),19,3xQiD37YPOB3bDmT6gSUHG,Waterloo - Alternative Mix,spotify:track:3xQiD37YPOB3bDmT6gSUHG,0.22,0.364,0.812,2.65e-05,0.142,-7.436,0.0379,145.871,0.711,22,Abba
